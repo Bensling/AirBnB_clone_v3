@@ -2,7 +2,7 @@
 
 # AirBnB Clone: Phase # 3
 
-: API with Swagger
+: API
 
 ## Description
 
@@ -212,7 +212,7 @@ github repo
 
 ## Authors
 
-** Caleb Nyong
+** Benson Mwaura
 
 ## License
 
